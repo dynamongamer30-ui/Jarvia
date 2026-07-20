@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Voice-first AI assistant using openWakeWord, STT, and Gemini function calling in a modern glassmorphic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
